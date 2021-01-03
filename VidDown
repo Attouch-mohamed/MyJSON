@@ -1,5 +1,5 @@
 
-"AdsController" :{
+{"AdsController" :{
     "NetworkAds":"facebook",
     "AdmobId":"",
 
@@ -14,5 +14,5 @@
     "ImageBanner":false,
     "ImageBannerImg":"",
     "ImageBannerURL":""
-
+}
 }
