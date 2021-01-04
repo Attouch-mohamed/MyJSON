@@ -1,18 +1,7 @@
 
 {"AdsController" :{
-    "NetworkAds":"admob",
     "AdmobId":"",
-
     "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
-    "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
-    "NativeAdmob":"",
-    
-    "BannerFacebook":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "InterstitialFacebook":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "NativeFacebook":"",
-
-    "ImageBanner":false,
-    "ImageBannerImg":"",
-    "ImageBannerURL":""
+    "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712"
 }
 }
