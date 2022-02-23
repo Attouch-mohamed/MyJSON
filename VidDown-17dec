@@ -1,9 +1,9 @@
 {"AdsController" :{
-    "AdmobId":"pub-4210315480386523",
-    "OpenAdmob":"ca-app-pub-4210315480386523/3235716049",
-    "BannerAdmob":"ca-app-pub-4210315480386523/9733675788",
-    "NativeAdmob":"ca-app-pub-4210315480386523/6915940750",
-    "InterstitialAdmob":"ca-app-pub-4210315480386523/7354924450",
-    "InterSplashAdmob":"ca-app-pub-4210315480386523/7354966450"
+    "AdmobId":"pub-7827207429236121",
+    "OpenAdmob":"ca-app-pub-7827207429236121/5343690392",
+    "BannerAdmob":"ca-app-pub-7827207429236121/5822719463",
+    "NativeAdmob":"ca-app-pub-7827207429236121/4928440190",
+    "InterstitialAdmob":"ca-app-pub-7827207429236121/5245463957",
+    "InterSplashAdmob":"ca-app-pub-7827207429236121/7354966450"
 }
 }
